@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.75df9f48.chunk.css",
+    "main.js": "/weather-app/static/js/main.bc634d2d.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.bc634d2d.chunk.js.map",
+    "runtime-main.js": "/weather-app/static/js/runtime-main.d0263612.js",
+    "runtime-main.js.map": "/weather-app/static/js/runtime-main.d0263612.js.map",
+    "static/js/2.6eb8b2af.chunk.js": "/weather-app/static/js/2.6eb8b2af.chunk.js",
+    "static/js/2.6eb8b2af.chunk.js.map": "/weather-app/static/js/2.6eb8b2af.chunk.js.map",
+    "index.html": "/weather-app/index.html",
+    "precache-manifest.07db97d6e7fb56de232810bafce60f75.js": "/weather-app/precache-manifest.07db97d6e7fb56de232810bafce60f75.js",
+    "service-worker.js": "/weather-app/service-worker.js",
+    "static/css/main.75df9f48.chunk.css.map": "/weather-app/static/css/main.75df9f48.chunk.css.map",
+    "static/js/2.6eb8b2af.chunk.js.LICENSE.txt": "/weather-app/static/js/2.6eb8b2af.chunk.js.LICENSE.txt",
+    "static/media/mintbean.png": "/weather-app/static/media/mintbean.cf18b629.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0263612.js",
+    "static/js/2.6eb8b2af.chunk.js",
+    "static/css/main.75df9f48.chunk.css",
+    "static/js/main.bc634d2d.chunk.js"
+  ]
+}
